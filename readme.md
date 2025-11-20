@@ -4,6 +4,9 @@ This project is used to performing Cognition Decoding (code adapted from Marguli
 
 ## Dependency
 python==3.7
+
+
 pip install -r requirements.txt
+
 
 see also : https://github.com/gpreti/GSP_StructuralDecouplingIndex
